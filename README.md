@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Juan Pablo Montoya 👋
 
-<!--
-**juanpmont07/juanpmont07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer (Java · Spring Boot · Angular)** — 6+ years building robust web apps, microservices, and CI/CD on Azure.
 
-Here are some ideas to get you started:
+- 🔭 Currently: Full‑stack at **Ceiba Software** (Java · Angular 17 · SQL Server · Azure)
+- 🧱 Architecture: Hexagonal, DDD, microservices, microfrontends
+- 🧪 Quality: Unit tests, TDD, GitHub Actions, code reviews
+- ☁️ Cloud/DevOps: Azure, Docker, CI/CD
+- 🗣 Languages: Spanish (native), English (intermediate)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pinned Projects
+1. **energy-platform** — Spring Boot microservices + Angular 17; Azure deploy; clean architecture.
+2. **ddd-starter** — Java + Spring Boot base with Hexagonal + DDD + tests.
+3. **angular-mfe-starter** — Microfrontends skeleton with Module Federation.
+
+## Tech Stack
+Java · Spring Boot · Angular · SQL Server · Docker · Azure · CI/CD · Design Patterns
+
+## Get in touch
+📫 juanpmont07@hotmail.com · 🌎 Medellín, Colombia
